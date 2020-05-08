@@ -1,3 +1,10 @@
+body{
+  text-align: center;
+	font: 100 1em 'Raleway', Helvetica;
+	text-shadow: .2em;
+	text-transform: uppercase;
+	background: linear-gradient(to right, #78f035, #007894);
+}
 .done {
   text-decoration: line-through;
 }	
