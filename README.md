@@ -1,2 +1,2 @@
 # add-del-shoppinglist
-First exercise on JS - Shopping list - Add/ Delete
+Shopping list - Add/ Delete
