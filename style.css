@@ -1,8 +1,22 @@
 body{
-  font: 100 1em 'Raleway', Helvetica;
+  text-align: center;
+	font: 100 1em 'Raleway', Helvetica;
 	text-shadow: .2em;
+	text-transform: uppercase;
 	background: linear-gradient(to right, #78f035, #007894);
 }
 .done {
   text-decoration: line-through;
 }	
+button {
+	cursor: pointer;
+	background: linear-gradient(to right, #78f035, #007894);
+	text-shadow: .5em;
+	border-radius: 4em;
+	font: 800 1.5em 'Raleway', Helvetica;
+	font-family: inherit;
+       text-transform: uppercase;
+       letter-spacing: .2em;
+  
+	
+}
